@@ -15,25 +15,25 @@ This project demonstrates the basic Git workflow, including creating a local rep
 
 ## Project Structure
 
-NaolAlula
-
+NaolAlula/
+```text
 ├── Naol_BMI.py
 └── README.md
-
+```
 ### Clone the Repository
-
+``` bash
 git clone https://github.com/NaolAlula/NaolAlula-AAU
 cd NaolAlula-AAU
-
+```
 
 ### Run the Python Program
-
+```
 python Naol_BMI.py
-
+```
 Expected output:
-
+```
 Calculating the BMI of patients based on inputted height and weight 
-
+```
 ## Basic Git Commands I used:
 
 | Command | Purpose |
