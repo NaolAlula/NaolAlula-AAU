@@ -15,7 +15,8 @@ This project demonstrates the basic Git workflow, including creating a local rep
 
 ## Project Structure
 
-NaolAlula/
+NaolAlula
+
 ├── Naol_BMI.py
 └── README.md
 
